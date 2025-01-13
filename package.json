@@ -1,15 +1,24 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "API backend em Node.js com Express e TypeScript",
+  "main": "src/server.ts", 
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon --exec ts-node src/server.ts", 
+    "build": "tsc", 
+    "start": "node dist/server.js" 
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["API", "Node", "TypeScript", "Express"],
+  "author": "Seu Nome", 
   "license": "ISC",
-  "description": "",
   "dependencies": {
-    "express": "^4.21.2"
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.5",
+    "express": "^4.21.2",
+    "typescript": "^5.7.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "ts-node": "^10.9.2"
   }
 }
