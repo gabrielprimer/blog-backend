@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "One Piece: A Jornada de Luffy até o Novo Mundo",
+    "slug": "one-piece-jornada-luffy",
+    "date": "2025-03-17",
+    "author": "PrimerDev",
+    "tags": ["One Piece", "Shonen", "Anime"],
+    "summary": "Exploramos a incrível jornada de Monkey D. Luffy, desde o East Blue até o Novo Mundo.",
+    "content": "One Piece é um dos animes mais populares de todos os tempos. Desde sua estreia em 1999, acompanhamos a jornada de Luffy e sua tripulação..."
+  },
+  {
+    "id": 2,
+    "title": "Os 5 Animes de Ação que Você Precisa Assistir",
+    "slug": "top-5-animes-acao",
+    "date": "2025-03-10",
+    "author": "PrimerDev",
+    "tags": ["Top List", "Ação", "Anime"],
+    "summary": "Selecionamos cinco animes imperdíveis para quem curte ação intensa e lutas épicas.",
+    "content": "Se você gosta de ação e adrenalina, precisa conferir essa lista. Desde clássicos como Dragon Ball Z até sucessos modernos como Jujutsu Kaisen..."
+  },
+  {
+    "id": 3,
+    "title": "Por que Steins;Gate é um dos melhores animes de ficção científica?",
+    "slug": "steins-gate-melhor-anime-ficcao",
+    "date": "2025-03-05",
+    "author": "PrimerDev",
+    "tags": ["Steins;Gate", "Sci-Fi", "Anime"],
+    "summary": "Analisamos os motivos que fazem Steins;Gate ser um dos animes mais aclamados da ficção científica.",
+    "content": "Steins;Gate combina viagem no tempo com uma narrativa envolvente. A história de Okabe Rintarou e seus amigos nos faz questionar o impacto de cada escolha..."
+  }
+]

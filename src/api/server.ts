@@ -2,26 +2,22 @@ import express from 'express';
 import cors from 'cors';
 import path from 'path';
 
+// Inicia o app do Express
 const app = express();
 const port = 5000;
 
 // Habilitar CORS para todas as origens
 app.use(cors());
 
-// Carregar os dados JSON com caminho correto
-const animesData = require('../animes.json');
-const episodesData = require('../episodes.json');
+// Carregar os dados do JSON de posts com o caminho correto
+const postsData = require('../posts.json');
 
-// Rota para retornar os animes
-app.get('/api/animes', (req, res) => {
-  res.json(animesData);
+// Rota para retornar os posts
+app.get('/api/posts', (req, res) => {
+  res.json(postsData);
 });
 
-// Rota para retornar os episódios
-app.get('/api/episodes', (req, res) => {
-  res.json(episodesData);
-});
-
+// Inicia o servidor
 app.listen(port, () => {
   console.log(`Servidor rodando em http://localhost:${port}`);
 });
