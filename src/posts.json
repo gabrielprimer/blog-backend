@@ -1,14 +1,26 @@
 [
-  {
-    "id": 1,
-    "title": "One Piece: A Jornada de Luffy até o Novo Mundo",
-    "slug": "one-piece-jornada-luffy",
-    "date": "2025-03-17",
-    "author": "PrimerDev",
-    "tags": ["One Piece", "Shonen", "Anime"],
-    "summary": "Exploramos a incrível jornada de Monkey D. Luffy, desde o East Blue até o Novo Mundo.",
-    "content": "One Piece é um dos animes mais populares de todos os tempos. Desde sua estreia em 1999, acompanhamos a jornada de Luffy e sua tripulação..."
-  },
+  [
+    {
+      "id": 1,
+      "title": "Guia da Temporada de Animes 2025",
+      "slug": "guia-temporada-animes-2025",
+      "date": "2025-03-17",
+      "author": "PrimerDev",
+      "tags": ["Guia", "Temporada", "Anime", "2025"],
+      "summary": "Confira as principais estreias da temporada de animes de 2025!",
+      "content": "Aqui você encontra as melhores opções para acompanhar nesta temporada de 2025, com animes de ação, aventura, e muito mais.",
+      "images": [
+        "https://res.cloudinary.com/seu-cloud-name/image/upload/v1234567890/anime-1.jpg",
+        "https://res.cloudinary.com/seu-cloud-name/image/upload/v1234567890/anime-2.jpg",
+        "https://res.cloudinary.com/seu-cloud-name/image/upload/v1234567890/anime-3.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "https://www.youtube.com/embed/oHg5SJYRHA0"
+      ]
+    }
+  ]
+  ,
   {
     "id": 2,
     "title": "Os 5 Animes de Ação que Você Precisa Assistir",

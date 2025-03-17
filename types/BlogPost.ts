@@ -7,4 +7,6 @@ export interface BlogPost {
   tags: string[];
   summary: string;
   content: string;
+  images?: string[]; // Array de URLs de imagens
+  videos?: string[]; // Array de URLs de vídeos (YouTube embed)
 }
