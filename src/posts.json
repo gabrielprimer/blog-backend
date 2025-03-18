@@ -2,9 +2,10 @@
   {
     "id": 1,
     "title": "Guia da Temporada de Animes 2025",
-    "slug": "guia-temporada-animes-2025",
+    "slug": "1-guia-temporada-animes-2025",
     "date": "2025-03-17",
     "author": "PrimerDev",
+    "category": "Destaques",
     "tags": ["Guia", "Temporada", "Anime", "2025"],
     "summary": "Confira as principais estreias da temporada de animes de 2025!",
     "content": "Aqui você encontra as melhores opções para acompanhar nesta temporada de 2025, com animes de ação, aventura, e muito mais.",
@@ -22,9 +23,10 @@
   {
     "id": 2,
     "title": "Os 5 Animes de Ação que Você Precisa Assistir",
-    "slug": "top-5-animes-acao",
+    "slug": "2-top-5-animes-acao",
     "date": "2025-03-10",
     "author": "PrimerDev",
+    "category": "Noticias",
     "tags": ["Top List", "Ação", "Anime"],
     "summary": "Selecionamos cinco animes imperdíveis para quem curte ação intensa e lutas épicas.",
     "content": "Se você gosta de ação e adrenalina, precisa conferir essa lista. Desde clássicos como Dragon Ball Z até sucessos modernos como Jujutsu Kaisen..."
@@ -32,9 +34,10 @@
   {
     "id": 3,
     "title": "Por que Steins;Gate é um dos melhores animes de ficção científica?",
-    "slug": "steins-gate-melhor-anime-ficcao",
+    "slug": "3-steins-gate-melhor-anime-ficcao",
     "date": "2025-03-05",
     "author": "PrimerDev",
+    "category": "Artigos",
     "tags": ["Steins;Gate", "Sci-Fi", "Anime"],
     "summary": "Analisamos os motivos que fazem Steins;Gate ser um dos animes mais aclamados da ficção científica.",
     "content": "Steins;Gate combina viagem no tempo com uma narrativa envolvente. A história de Okabe Rintarou e seus amigos nos faz questionar o impacto de cada escolha..."
@@ -42,9 +45,10 @@
    {
     "id": 4,
     "title": "Guia da Temporada de Animes 2026",
-    "slug": "guia-temporada-animes-2026",
+    "slug": "4-guia-temporada-animes-2026",
     "date": "2025-03-17",
     "author": "PrimerDev",
+    "category": "Anuncios",
     "tags": ["Guia", "Temporada", "Anime", "2025"],
     "summary": "Confira as principais estreias da temporada de animes de 2025!",
     "content": "Aqui você encontra as melhores opções para acompanhar nesta temporada de 2025, com animes de ação, aventura, e muito mais.",
@@ -62,9 +66,10 @@
   {
     "id": 5,
     "title": "Os 5 Animes de Ação que Você nao Precisa Assistir",
-    "slug": "top-5-animes-acao-sla",
+    "slug": "5-top-5-animes-acao-sla",
     "date": "2025-03-10",
     "author": "PrimerDev",
+    "category": "Guias",
     "tags": ["Top List", "Ação", "Anime"],
     "summary": "Selecionamos cinco animes imperdíveis para quem curte ação intensa e lutas épicas.",
     "content": "Se você gosta de ação e adrenalina, precisa conferir essa lista. Desde clássicos como Dragon Ball Z até sucessos modernos como Jujutsu Kaisen..."
@@ -72,9 +77,96 @@
   {
     "id": 6,
     "title": "Por que Steins;Gate é um dos melhores animes de ficção científica?",
-    "slug": "steins-gate-melhor-anime-ficcao-aaa",
+    "slug": "6-steins-gate-melhor-anime-ficcao-aaa",
     "date": "2025-03-05",
     "author": "PrimerDev",
+    "category": "Quizzes e testes",
+    "tags": ["Steins;Gate", "Sci-Fi", "Anime"],
+    "summary": "Analisamos os motivos que fazem Steins;Gate ser um dos animes mais aclamados da ficção científica.",
+    "content": "Steins;Gate combina viagem no tempo com uma narrativa envolvente. A história de Okabe Rintarou e seus amigos nos faz questionar o impacto de cada escolha..."
+  },
+    {
+    "id": 7,
+    "title": "Guia da Temporada de Animes 20275",
+    "slug": "7-guia-temporada-animes-2025",
+    "date": "2025-03-17",
+    "author": "PrimerDev",
+    "category": "Entrevistas",
+    "tags": ["Guia", "Temporada", "Anime", "2025"],
+    "summary": "Confira as principais estreias da temporada de animes de 2025!",
+    "content": "Aqui você encontra as melhores opções para acompanhar nesta temporada de 2025, com animes de ação, aventura, e muito mais.",
+    "images": [
+      "https://res.cloudinary.com/seu-cloud-name/image/upload/v1234567890/anime-1.jpg",
+      "https://res.cloudinary.com/seu-cloud-name/image/upload/v1234567890/anime-2.jpg",
+      "https://res.cloudinary.com/seu-cloud-name/image/upload/v1234567890/anime-3.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "https://www.youtube.com/embed/oHg5SJYRHA0"
+    ]
+  }
+  ,
+  {
+    "id": 8,
+    "title": "Os 50 Animes de Ação que Você Precisa Assistir",
+    "slug": "8-top-5-animes-acao",
+    "date": "2025-03-10",
+    "author": "PrimerDev",
+    "category": "Filmes",
+    "tags": ["Top List", "Ação", "Anime"],
+    "summary": "Selecionamos cinco animes imperdíveis para quem curte ação intensa e lutas épicas.",
+    "content": "Se você gosta de ação e adrenalina, precisa conferir essa lista. Desde clássicos como Dragon Ball Z até sucessos modernos como Jujutsu Kaisen..."
+  },
+  {
+    "id": 9,
+    "title": "Por que albert Steins;Gate é um dos melhores animes de ficção científica?",
+    "slug": "9-steins-gate-melhor-anime-ficcao",
+    "date": "2025-03-05",
+    "author": "PrimerDev",
+    "category": "Musica",
+    "tags": ["Steins;Gate", "Sci-Fi", "Anime"],
+    "summary": "Analisamos os motivos que fazem Steins;Gate ser um dos animes mais aclamados da ficção científica.",
+    "content": "Steins;Gate combina viagem no tempo com uma narrativa envolvente. A história de Okabe Rintarou e seus amigos nos faz questionar o impacto de cada escolha..."
+  },
+   {
+    "id": 10,
+    "title": "Guia da Temporada de Animes 2096",
+    "slug": "10-guia-temporada-animes-2026",
+    "date": "2025-03-17",
+    "author": "PrimerDev",
+    "category": "Guias",
+    "tags": ["Guia", "Temporada", "Anime", "2025"],
+    "summary": "Confira as principais estreias da temporada de animes de 2025!",
+    "content": "Aqui você encontra as melhores opções para acompanhar nesta temporada de 2025, com animes de ação, aventura, e muito mais.",
+    "images": [
+      "https://res.cloudinary.com/seu-cloud-name/image/upload/v1234567890/anime-1.jpg",
+      "https://res.cloudinary.com/seu-cloud-name/image/upload/v1234567890/anime-2.jpg",
+      "https://res.cloudinary.com/seu-cloud-name/image/upload/v1234567890/anime-3.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "https://www.youtube.com/embed/oHg5SJYRHA0"
+    ]
+  }
+  ,
+  {
+    "id": 11,
+    "title": "Os 15 Animes de Ação que Você nao Precisa Assistir",
+    "slug": "11-top-5-animes-acao-sla",
+    "date": "2025-03-10",
+    "author": "PrimerDev",
+    "category": "Guias",
+    "tags": ["Top List", "Ação", "Anime"],
+    "summary": "Selecionamos cinco animes imperdíveis para quem curte ação intensa e lutas épicas.",
+    "content": "Se você gosta de ação e adrenalina, precisa conferir essa lista. Desde clássicos como Dragon Ball Z até sucessos modernos como Jujutsu Kaisen..."
+  },
+  {
+    "id": 12,
+    "title": "Por que Stteins;Gate é um dos melhores animes de ficção científica?",
+    "slug": "12-steins-gate-melhor-anime-ficcao-aaa",
+    "date": "2025-03-05",
+    "author": "PrimerDev",
+    "category": "Guias",
     "tags": ["Steins;Gate", "Sci-Fi", "Anime"],
     "summary": "Analisamos os motivos que fazem Steins;Gate ser um dos animes mais aclamados da ficção científica.",
     "content": "Steins;Gate combina viagem no tempo com uma narrativa envolvente. A história de Okabe Rintarou e seus amigos nos faz questionar o impacto de cada escolha..."
